@@ -7,8 +7,7 @@ requires = ['blockdiag>=1.5.0', 'actdiag>=0.5.3', 'Sphinx>=0.6']
 setup(
     name='sphinxcontrib-actdiag',
     version='0.8.1',
-    url='http://bitbucket.org/birkenfeld/sphinx-contrib',
-    download_url='http://pypi.python.org/pypi/sphinxcontrib-actdiag',
+    url='http://github.com/tk0miya/sphinxcontrib-actdiag',
     license='BSD',
     author='Takeshi KOMIYA',
     author_email='i.tkomiya@gmail.com',
