@@ -6,7 +6,7 @@ requires = ['blockdiag>=1.5.0', 'actdiag>=0.5.3', 'Sphinx>=0.6']
 
 setup(
     name='sphinxcontrib-actdiag',
-    version='0.8.4',
+    version='0.8.5',
     url='http://github.com/blockdiag/sphinxcontrib-actdiag',
     license='BSD',
     author='Takeshi KOMIYA',
