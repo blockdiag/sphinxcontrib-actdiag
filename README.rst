@@ -2,14 +2,14 @@
 sphinxcontrib-actdiag
 =====================
 
-.. image:: https://travis-ci.org/tk0miya/sphinxcontrib-actdiag.svg?branch=master
-   :target: https://travis-ci.org/tk0miya/sphinxcontrib-actdiag
+.. image:: https://travis-ci.org/blockdiag/sphinxcontrib-actdiag.svg?branch=master
+   :target: https://travis-ci.org/blockdiag/sphinxcontrib-actdiag
 
-.. image:: https://coveralls.io/repos/tk0miya/sphinxcontrib-actdiag/badge.png?branch=master
-   :target: https://coveralls.io/r/tk0miya/sphinxcontrib-actdiag?branch=master
+.. image:: https://coveralls.io/repos/blockdiag/sphinxcontrib-actdiag/badge.png?branch=master
+   :target: https://coveralls.io/r/blockdiag/sphinxcontrib-actdiag?branch=master
 
-.. image:: https://codeclimate.com/github/tk0miya/sphinxcontrib-actdiag/badges/gpa.svg
-   :target: https://codeclimate.com/github/tk0miya/sphinxcontrib-actdiag
+.. image:: https://codeclimate.com/github/blockdiag/sphinxcontrib-actdiag/badges/gpa.svg
+   :target: https://codeclimate.com/github/blockdiag/sphinxcontrib-actdiag
 
 A sphinx extension for embedding activity diagram using actdiag_.
 
