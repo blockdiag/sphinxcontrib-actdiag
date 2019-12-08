@@ -2,7 +2,7 @@
 
 from setuptools import setup, find_packages
 
-requires = ['blockdiag>=1.5.0', 'actdiag>=0.5.3', 'Sphinx>=0.6']
+requires = ['blockdiag>=1.5.0', 'actdiag>=0.5.3', 'Sphinx>=2.0']
 
 setup(
     name='sphinxcontrib-actdiag',
